@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="points_display" type="id" />
+    <item name="fifth_answer" type="id" />
+    <item name="fourthOption_4" type="id" />
+    <item name="fourthOption_3" type="id" />
+    <item name="fourthOption_2" type="id" />
+    <item name="fourthOption_1" type="id" />
+    <item name="thirdOption_2" type="id" />
+    <item name="secondOption_1" type="id" />
+    <item name="firstOption_3" type="id" />
+</resources>

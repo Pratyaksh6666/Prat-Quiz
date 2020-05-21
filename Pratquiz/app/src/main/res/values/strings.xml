@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pratquiz</string>
+    <string name="text_question_one">When was the computer invented?</string>
+    <string name="text_question_two">Are computers easy to use?</string>
+    <string name="text_question_three">What was the first programming language?</string>
+    <string name="check_question_four">Which of the following are used in computer?</string>
+    <string name="read_question_five">Who is the father of computer?</string>
+    <string name="result">Result</string>
+    <string name="charles_babbage">charles babbage</string>
+</resources>
